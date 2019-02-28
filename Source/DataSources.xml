@@ -1,4 +1,4 @@
-<Application>
+ <Application>
  
 <Header>
 
@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="2"/>
+  <LastIsn val="5"/>
 
   <LastIsnFolder val="0"/>
 
@@ -16,7 +16,7 @@
  <DataSourceRepository>
   <DataObjects>
  
-<DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="DB1">
+<DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="DB1">
 
   <Encrypt val="N"/>
 
@@ -47,7 +47,7 @@
   <WebS/>
 
 </DataObject> 
-<DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" name="DB2">
+<DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" name="DB2">
 
   <Encrypt val="N"/>
 
@@ -77,6 +77,38 @@
 
   <WebS/>
 
-</DataObject> </DataObjects>
+</DataObject> 
+<DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" name="DB3">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject>  </DataObjects>
  </DataSourceRepository>
   </Application>
+
