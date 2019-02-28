@@ -77,37 +77,6 @@
 
   <WebS/>
 
-</DataObject>
-  <DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="DB3">
-
-  <Encrypt val="N"/>
-
-  <Cache val="D"/>
-
-  <IdentifyRowModifications val="U"/>
-
-  <HasHint val="Y"/>
-
-  <Cursor val="D"/>
-
-  <CheckExistence val="D"/>
-
-  <ObjectType val="T"/>
-
-  <Position val="D"/>
-
-  <PositionIndex val="-1"/>
-
-  <MetaTreeRTIndex val="-1"/>
-
-  <Columns/>
-
-  <Indexes/>
-
-  <ForeignKeys/>
-
-  <WebS/>
-
-</DataObject></DataObjects>
+</DataObject> </DataObjects>
  </DataSourceRepository>
   </Application>
