@@ -13,6 +13,8 @@
       <Object Public="first" id="1" name="mdu3">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
         </PropertyList>
       </Object>
     </Models>
