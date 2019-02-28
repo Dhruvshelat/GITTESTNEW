@@ -18,6 +18,6 @@
  
 <DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="DB1" offset="199" length="450"/> 
 <DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" name="DB2" offset="650" length="450"/> 
-</DataObjects>
+<DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" name="DB3" offset="1101" length="450"/>  </DataObjects>
  </DataSourceRepository>
  <LastModified val="30723879-210407103"/>  </Application>
