@@ -15,11 +15,6 @@
           <Model attr_obj="FIELD_ALPHA" id="1"/>
         </PropertyList>
       </Object>
-      <Object Public="sec" id="2" name="md2">
-        <PropertyList model="FIELD">
-          <Model attr_obj="FIELD_ALPHA" id="2"/>
-        </PropertyList>
-      </Object>
     </Models>
   </ModelsRepository>
 
