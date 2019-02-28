@@ -1,4 +1,4 @@
- <Application>
+<Application>
  
 <Header>
 
@@ -16,7 +16,67 @@
  <DataSourceRepository>
   <DataObjects>
  
+<DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="DB1">
 
- </DataObjects>
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" name="DB2">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> </DataObjects>
  </DataSourceRepository>
   </Application>

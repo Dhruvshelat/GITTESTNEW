@@ -10,9 +10,12 @@
   </Header>
 
   <DataSourceRepository>
-    <DataObjects/>
+    <DataObjects>
+      <DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" length="483" name="DB1" offset="213"/>
+      <DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" length="481" name="DB2" offset="697"/>
+    </DataObjects>
   </DataSourceRepository>
 
-  <LastModified val="30723875-127762713"/>
+  <LastModified val="30723877214286987"/>
 
 </Application>
