@@ -1,23 +1,22 @@
- <Application>
- 
-<Header>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
 
-  <Version val="14050.00"/>
+  <Header>
+    <Version val="14050.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="5"/>
+    <LastIsnFolder val="0"/>
+  </Header>
 
-  <WithIsn val="Y"/>
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" length="483" name="DB1" offset="214"/>
+      <DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" length="481" name="DB2" offset="698"/>
+      <DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" length="481" name="DB3" offset="1180"/>
+    </DataObjects>
+  </DataSourceRepository>
 
-  <Exe comp="-1"/>
+  <LastModified val="30723880203620184"/>
 
-  <LastIsn val="5"/>
-
-  <LastIsnFolder val="0"/>
-
-</Header>
- <DataSourceRepository>
-  <DataObjects>
- 
-<DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="DB1" offset="199" length="450"/> 
-<DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" name="DB2" offset="650" length="450"/> 
-<DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" name="DB3" offset="1101" length="450"/>  </DataObjects>
- </DataSourceRepository>
- <LastModified val="30723879-210407103"/>  </Application>
+</Application>
