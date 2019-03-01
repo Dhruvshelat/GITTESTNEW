@@ -8,13 +8,14 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="5"/>
+  <LastIsn val="6"/>
 
   <LastIsnFolder val="0"/>
 
 </Header>
  <DataSourceRepository>
   <DataObjects>
+ 
  
 <DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="DB1">
 
@@ -47,7 +48,36 @@
   <WebS/>
 
 </DataObject> 
+<DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="6" name="DB2">
 
-</DataObjects>
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject>  </DataObjects>
  </DataSourceRepository>
   </Application>
