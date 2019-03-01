@@ -13,10 +13,10 @@
     <DataObjects>
       <DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" length="489" name="DB1" offset="214"/>
       <DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" length="484" name="DB2" offset="704"/>
-       <DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" length="484" name="DB2" offset="704"/>
+      <DataObject PhysicalName="DB3" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" length="483" name="DB3" offset="1189"/>
     </DataObjects>
   </DataSourceRepository>
 
-  <LastModified val="30724138-55206533"/>
+  <LastModified val="30724159164030251"/>
 
 </Application>
