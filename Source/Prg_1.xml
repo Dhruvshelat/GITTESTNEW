@@ -28,12 +28,12 @@
           <RunProjectAs val="O"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="737117" _time="63361" date="27/02/2019" time="17:36:01"/>
+          <LastModified _date="737119" _time="36918" date="01/03/2019" time="10:15:18"/>
         </Header>
         <ItemIsn val="1"/>
         <Resource>
           <Columns>
-            <Column id="1" name="AAABCDEF">
+            <Column id="1" name="AA">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
                 <StoredAs id="173" val="1"/>
