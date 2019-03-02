@@ -12,7 +12,7 @@
   <DataSourceRepository>
     <DataObjects>
       <DataObject PhysicalName="DB1" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" length="489" name="DB1" offset="214"/>
-      <DataObject PhysicalName="DB2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" length="484" name="DB2" offset="704"/>
+      
     </DataObjects>
   </DataSourceRepository>
 
