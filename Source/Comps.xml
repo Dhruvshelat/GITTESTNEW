@@ -11,7 +11,7 @@
 
   <ComponentsRepository>
     <Components>
-      <Component id="1" name="UserFunctionality">
+      <Component id="1" name="UserFunctionality1">
         <Description val="Handles the Range, Locate, Sort and Print Data internal events"/>
         <ComponentType val="Magic xpa"/>
         <Type val="U"/>
